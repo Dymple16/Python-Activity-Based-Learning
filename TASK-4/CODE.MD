@@ -2,9 +2,9 @@
 
 ## Problem Statement
 
-Create a Python program to estimate the cost of a campus event, including venue, equipment, catering, transport, and certificates. Calculate the total event cost, the amount participants must contribute after sponsorship, any sponsorship shortfall, and the minimum number of registrations needed to break even.
-
-**Assumption:** Sponsorship is a fixed amount. Each registered participant pays the same contribution. The event breaks even when participant contributions plus sponsorship cover the total cost.
+Campus Event Financial Planning: Calculate venue, equipment, catering, transport, and
+certificate costs; determine participant contributions, sponsorship shortfalls, and the minimum
+registration count needed to break even.
 
 ## Algorithm
 
